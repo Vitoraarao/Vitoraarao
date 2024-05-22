@@ -70,28 +70,6 @@
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/javafx.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/primefaces.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/play.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/scala.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/jenkins.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/html.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/css.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/js.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/vbs.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/postgresql.png?raw=true"/></a></code>
