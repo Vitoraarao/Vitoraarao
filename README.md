@@ -78,10 +78,6 @@
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/postman.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/insomnia.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/soap.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/redis.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/s3.svg?raw=true"/></a></code>
