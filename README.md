@@ -55,7 +55,7 @@
 - :basketball: &nbsp; Meus hobbies são <a href="https://www.callofduty.com/br/pt" target="_blank">Call of Duty</a>, <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://auten.com.br/lifestyle-estilo-de-vida-o-que-e/" target="_blank">Apaixonado por um bom estilo de vida</a>, viagens, boa comida e experiências.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:vitoraarao9@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :page_facing_up: &nbsp; Apaixonado por <a href="https://www.todamateria.com.br/historia/" target="_blank">História</a> .
 </p>
 </div>
 </div>
