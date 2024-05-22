@@ -18,7 +18,7 @@
 </td>
 <td><a href="mailto:vitoraarao9@gmail.com" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531989750514" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531989750514" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/whatsapp.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/vitor_aarao/" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
