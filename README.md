@@ -72,29 +72,7 @@
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/postgresql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/mongodb.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/dbeaver.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/jest.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/prometheus.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/grafana.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/newrelic.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/fastapi.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/docker.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/aws.png?raw=true"/></a></code>
+<code><a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB_k_&OCID=AIDcmmzmnb0182_SEM__k_Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/azure.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/heroku.png?raw=true"/></a></code>
 &nbsp; 
