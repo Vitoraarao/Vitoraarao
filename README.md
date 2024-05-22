@@ -82,7 +82,7 @@
 &nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/git.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/netbeans.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/html.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/visual-studio.png?raw=true"/></a></code>
 &nbsp;
