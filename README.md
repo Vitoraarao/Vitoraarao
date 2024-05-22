@@ -104,4 +104,19 @@
 </div>
 
 -----
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/spotify.gif?raw=true"/> Vitor's Spotify Data</summary>
+<img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=vitor-augusto">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=vitor-augusto" alt="Data Card for Spotify">
+</a>">
+</details>
+</div>
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=vitor-augusto&count={10}"/>
+</div>
+</div>
 
+-----
