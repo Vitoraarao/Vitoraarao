@@ -68,7 +68,7 @@
 
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/hashtag.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/java1.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
