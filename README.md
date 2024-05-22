@@ -74,9 +74,7 @@
 &nbsp; 
 <code><a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB_k_&OCID=AIDcmmzmnb0182_SEM__k_Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz1-fgIhxbhW5zfkrQ0NdiME5VCXbJrMm-i1uOlfDHOLNGcDK5oaBwO4aAr76EALw_wcB" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/azure.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/heroku.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/dotnet.png?raw=true"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/social.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/postman.png?raw=true"/></a></code>
 &nbsp; 
