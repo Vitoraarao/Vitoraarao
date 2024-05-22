@@ -22,11 +22,11 @@
 </td>
 <td><a href="https://www.instagram.com/vitor_aarao/" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/vitor-aarão-b6098723a/" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/vitor-aarão-b6098723a/" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/688946262137241600" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/688946262137241600" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
