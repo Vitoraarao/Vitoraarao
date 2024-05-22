@@ -149,7 +149,11 @@
 
 -----
 
-<img align="center" alt="Footer2" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/footer-gray.gif?type=waving&height=100&color=gray&section=footer"/>
+
+<div>
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&fontColor=8928d4"/>
+</div>
+
 
 -----
 
