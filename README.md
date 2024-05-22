@@ -52,7 +52,7 @@
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Ciência da Computação.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C#, veja alguns códigos que fiz <a href="https://github.com/Vitoraarao/C#" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cabuloso</a>. :fox_face:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://www.callofduty.com/br/pt" target="_blank">Jogos</a>, <a href="https://open.spotify.com/playlist/5qhCyURJsVVbU7zDcwn4Z9?si=d2644bd1fa264fe8" target="_blank">Festas</a> e <a href="https://www.instagram.com/vitor_aarao/" target="_blank">Apaixonado por um bom estilo de vida</a> (viagens, boa comida e experiências).<br />
+- :basketball: &nbsp; Meus hobbies são <a href="https://www.callofduty.com/br/pt" target="_blank">Jogos</a>, <a href="https://open.spotify.com/playlist/5qhCyURJsVVbU7zDcwn4Z9?si=d2644bd1fa264fe8" target="_blank">Festas</a> e <a href="https://www.instagram.com/vitor_aarao/" target="_blank">Um bom Lifestyle</a> (viagens, boa comida e experiências).<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:vitoraarao9@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :page_facing_up: &nbsp; Apaixonado por <a href="https://www.todamateria.com.br/historia/" target="_blank">História</a>, <a href="https://www.todamateria.com.br/o-que-e-sociologia/" target="_blank">Sociologia</a> e <a href="https://www.educamaisbrasil.com.br/cursos-e-faculdades/medicina" target="_blank">Medicina</a> .
