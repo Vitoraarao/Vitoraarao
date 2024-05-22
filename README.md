@@ -89,6 +89,7 @@
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/css.png?raw=true"/></a></code>
+<code><a href="https://k8slens.dev/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/diaphragm.png?raw=true"/></a></code>
 </div>
 
 -----
