@@ -52,7 +52,7 @@
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Ciência da Computação.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C#, veja alguns códigos que fiz <a href="https://github.com/Vitoraarao/C#" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cabuloso</a>. :fox_face:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
+- :basketball: &nbsp; Meus hobbies são <a href="https://www.callofduty.com/br/pt" target="_blank">Call of Duty</a>, <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:Vitoraarao@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
