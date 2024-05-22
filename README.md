@@ -66,7 +66,7 @@
 <img height="20" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/hastag.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/hashtag.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
