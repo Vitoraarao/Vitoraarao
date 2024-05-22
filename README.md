@@ -107,9 +107,8 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/spotify.gif?raw=true"/> Vitor's Spotify Data</summary>
-<img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=vitor-augusto">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=vitor-augusto" alt="Data Card for Spotify">
-</a>">
+</a>
 </details>
 </div>
 <div>
