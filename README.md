@@ -51,7 +51,7 @@
 <p> 
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Ciência da Computação.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C#, veja alguns códigos que fiz <a href="https://github.com/Vitoraarao/C#" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cabuloso</a>. :rooster:<br />
+- :soccer: &nbsp; Sou Cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">Cabuloso</a>. :fox:<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:Vitoraarao@gmail.com" target="_blank">e-mail</a> pessoal.<br />
