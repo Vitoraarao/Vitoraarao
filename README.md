@@ -14,7 +14,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Vitoraarao" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Vitoraarao" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/code.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:vitoraarao9@gmail.com" target="_blank"><img src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
