@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Vitor</code>, tenho 21 anos, moro em BH e sou programador desde 2023. Atualmente sou <code>aluno</code> no curso de Ciência da Computação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, sou o <code>Vitor</code>, tenho 21 anos, moro em BH e sou programador desde 2023. Atualmente sou <code>aluno</code> no curso de Ciência da Computação da <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e estagiário na FootStats.
 </div>
 
 -----
