@@ -41,9 +41,6 @@
 
 -----
 <div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
 
 <img height="20" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob/main/img/Star.gif?raw=true"/>Meus interesses pessoais:
 
